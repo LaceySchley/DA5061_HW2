@@ -1,119 +1,119 @@
 School,Conf,Coach, TotalPay , Graduation Rate (GSR) , StadSize ,W,L, Ratio ,OffenceScore,Defense Score,Score,PointsPerGame
-Air Force,Mt. West,Troy Calhoun,"$885,000.00",83,46692,10,3,3.333333333,4.96,-0.87,4.09,78.16
-Akron,MAC,Terry Bowden,"$412,500.00",45,30000,5,7,0.714285714,-0.4,-6.12,-6.52,72.64
-Alabama,SEC,Nick Saban,"$8,307,000.00",79,101821,14,1,14,8.01,17.62,25.62,90.38
-Appalachian State,Sun Belt,Scott Satterfield,"$712,500.00",57,24050,10,3,3.333333333,-0.86,9.68,8.83,70.76
-Arizona,Pac-12,Kevin Sumlin,"$2,000,000.00",74,51811,3,9,0.333333333,1.01,-5.64,-4.63,74.42
-Arizona State,Pac-12,Herm Edwards,"$2,000,000.00",74,71706,5,7,0.714285714,5.89,-8.49,-2.6,79.22
-Arkansas,SEC,Chad Morris,"$3,500,000.00",76,72000,7,6,1.166666667,4.06,0.29,4.35,80.66
-Arkansas State,Sun Belt,Blake Anderson,"$825,000.00",76,30964,8,5,1.6,-3.46,2.9,-0.56,70.41
-Army,Ind.,Jeff Monken,"$932,521.00",76,38000,8,5,1.6,-7.31,4.9,-2.41,74.12
-Auburn,SEC,Gus Malzahn,"$6,705,656.00",76,87451,8,5,1.6,-1.04,13.02,11.97,81.8
-Ball State,MAC,Mike Neu,"$435,689.00",71,22500,4,8,0.5,-3.5,-5.61,-9.11,69.48
+Air Force,Mt. West,Troy Calhoun,885000,83,46692,10,3,3.333333333,4.96,-0.87,4.09,78.16
+Akron,MAC,Terry Bowden,412500,45,30000,5,7,0.714285714,-0.4,-6.12,-6.52,72.64
+Alabama,SEC,Nick Saban,8307000,79,101821,14,1,14,8.01,17.62,25.62,90.38
+Appalachian State,Sun Belt,Scott Satterfield,712500,57,24050,10,3,3.333333333,-0.86,9.68,8.83,70.76
+Arizona,Pac-12,Kevin Sumlin,2000000,74,51811,3,9,0.333333333,1.01,-5.64,-4.63,74.42
+Arizona State,Pac-12,Herm Edwards,2000000,74,71706,5,7,0.714285714,5.89,-8.49,-2.6,79.22
+Arkansas,SEC,Chad Morris,3500000,76,72000,7,6,1.166666667,4.06,0.29,4.35,80.66
+Arkansas State,Sun Belt,Blake Anderson,825000,76,30964,8,5,1.6,-3.46,2.9,-0.56,70.41
+Army,Ind.,Jeff Monken,932521,76,38000,8,5,1.6,-7.31,4.9,-2.41,74.12
+Auburn,SEC,Gus Malzahn,6705656,76,87451,8,5,1.6,-1.04,13.02,11.97,81.8
+Ball State,MAC,Mike Neu,435689,71,22500,4,8,0.5,-3.5,-5.61,-9.11,69.48
 Baylor,Big 12,Matt Rhule,,71,45140,7,6,1.166666667,2.67,0.34,3.01,80.58
-Boise State,Mt. West,Bryan Harsin,"$1,650,010.00",55,37000,10,3,3.333333333,2.87,5.14,8.01,76.66
-Boston College,ACC,Steve Addazio,"$2,514,859.00",90,44500,7,6,1.166666667,-7,7.58,0.58,68.72
-Bowling Green,MAC,Mike Jinks,"$437,228.00",90,23724,,,,,,,
+Boise State,Mt. West,Bryan Harsin,1650010,55,37000,10,3,3.333333333,2.87,5.14,8.01,76.66
+Boston College,ACC,Steve Addazio,2514859,90,44500,7,6,1.166666667,-7,7.58,0.58,68.72
+Bowling Green,MAC,Mike Jinks,437228,90,23724,,,,,,,
 Brigham Young,Ind.,Kalani Sitake,,82,63725,9,4,2.25,0.11,6.39,6.5,74.98
-Buffalo,MAC,Lance Leipold,"$455,500.00",89,29013,2,10,0.2,-11.82,-6.42,-18.24,60.55
-California,Pac-12,Justin Wilcox,"$1,500,000.00",81,62717,5,7,0.714285714,12.42,-10,2.42,85.02
-Central Florida,AAC,Josh Heupel,"$1,700,000.00",64,45301,,,,,,,
-Central Michigan,MAC,John Bonamego,"$655,000.00",64,32885,6,7,0.857142857,-4.7,-0.9,-5.6,70.47
-Charlotte,C-USA,Brad Lambert,"$625,000.00",56,15314,4,8,0.5,-6.5,-6.01,-12.51,67.25
-Cincinnati,AAC,Luke Fickell,"$2,000,000.00",56,40000,4,8,0.5,-9.46,0.29,-9.17,65.2
-Clemson,ACC,Dabo Swinney,"$6,543,350.00",56,81500,14,1,14,9.4,10.68,20.08,91.53
-Coastal Carolina,Sun Belt,Joe Moglia,"$400,000.00",85,9214,,,,,,,
-Colorado,Pac-12,Mike MacIntyre,"$2,878,500.00",83,50183,10,4,2.5,2.32,9.86,12.18,79.41
-Colorado State,Mt. West,Mike Bobo,"$1,800,000.00",83,34400,7,6,1.166666667,5.18,-2.66,2.52,80.23
-Connecticut,AAC,Randy Edsall,"$1,100,000.00",98,40000,3,9,0.333333333,-13.01,-0.3,-13.3,60.84
-Duke,ACC,David Cutcliffe,"$2,540,928.00",82,33941,4,8,0.5,-3.03,1.67,-1.36,73.35
-East Carolina,AAC,Scottie Montgomery,"$1,102,500.00",80,50000,3,9,0.333333333,-2.71,-6.98,-9.69,74.88
-Eastern Michigan,MAC,Chris Creighton,"$460,000.00",75,30200,7,6,1.166666667,-1.73,-2.57,-4.3,72.43
-Florida,SEC,Dan Mullen,"$6,070,000.00",92,88548,9,4,2.25,-2.62,13.6,10.98,74.4
-Florida Atlantic,C-USA,Lane Kiffin,"$1,000,000.00",49,30000,3,9,0.333333333,-4.18,-10.42,-14.6,69.14
-Florida State,ACC,Willie Taggart,"$5,000,000.00",68,82300,10,3,3.333333333,9.49,5.52,15.01,86.38
-Fresno State,Mt. West,Jeff Tedford,"$1,550,000.00",90,41031,1,11,0.090909091,-12.31,-1.94,-14.26,60.61
-Georgia,SEC,Kirby Smart,"$6,603,600.00",89,92746,8,5,1.6,0.35,3.29,3.64,74.16
-Georgia Southern,Sun Belt,Chad Lunsford,"$650,000.00",82,24300,5,7,0.714285714,-3.04,-1.36,-4.4,71.25
-Georgia State,Sun Belt,Shawn Elliott,"$569,000.00",63,28155,3,9,0.333333333,-8.2,-1.17,-9.37,64.06
-Georgia Tech,ACC,Paul Johnson,"$3,060,018.00",33,55000,9,4,2.25,3.28,3.85,7.13,78.04
-Hawaii,Mt. West,Nick Rolovich,"$486,504.00",100,50000,7,7,1,-1.79,-4.65,-6.44,70.46
-Houston,AAC,Major Applewhite,"$1,750,000.00",0,40000,9,4,2.25,2.5,2.94,5.44,81.31
-Illinois,Big Ten,Lovie Smith,"$5,000,000.00",72,60670,3,9,0.333333333,-5.92,-1.83,-7.75,69.69
-Indiana,Big Ten,Tom Allen,"$1,830,000.00",74,52959,6,7,0.857142857,2.15,-0.77,1.38,74.18
-Iowa,Big Ten,Kirk Ferentz,"$4,700,000.00",84,70585,8,5,1.6,-0.51,7.31,6.81,74.25
-Iowa State,Big 12,Matt Campbell,"$3,500,000.00",84,61500,3,9,0.333333333,-3.46,-0.97,-4.43,74.74
-Kansas,Big 12,David Beaty,"$1,701,109.00",81,50071,2,10,0.2,-9.16,-1.49,-10.65,67.96
-Kansas State,Big 12,Bill Snyder,"$3,500,000.00",81,50000,9,4,2.25,1.7,6.39,8.09,78.76
-Kent State,MAC,Sean Lewis,"$440,000.00",77,25000,3,9,0.333333333,-7.19,-1.93,-9.12,65.93
-Kentucky,SEC,Mark Stoops,"$4,013,600.00",77,62093,7,6,1.166666667,4.33,-2.03,2.3,78.92
-Liberty,Ind.,Turner Gill,"$947,281.00",84,21088,,,,,,,
-Louisiana-Lafayette,Sun Belt,Billy Napier,"$850,000.00",67,36900,,,,,,,
-Louisiana-Monroe,Sun Belt,Matt Viator,"$390,000.00",67,30427,4,8,0.5,-4.42,-7.55,-11.97,68.45
-Louisville,ACC,Bobby Petrino,"$3,980,434.00",67,55000,9,4,2.25,8.81,3.06,11.87,92.04
-LSU,SEC,Ed Orgeron,"$3,500,000.00",67,102321,8,4,2,2.68,13.25,15.93,79.6
-Maryland,Big Ten,DJ Durkin,"$2,512,000.00",73,51802,6,7,0.857142857,-1.82,1.89,0.07,74
-Massachusetts,Ind.,Mark Whipple,"$500,000.00",73,66829,2,10,0.2,-3.73,-8.21,-11.94,69.5
-Memphis,AAC,Mike Norvell,"$2,600,000.00",73,62380,8,5,1.6,3.28,-0.32,2.96,83.82
-Miami (Fla.),ACC,Mark Richt,"$4,058,061.00",73,65000,,,,,,,
-Miami (Ohio),MAC,Chuck Martin,"$524,826.00",73,24286,,,,,,,
-Michigan,Big Ten,Jim Harbaugh,"$7,504,000.00",85,107601,10,3,3.333333333,4.71,12.85,17.56,90.05
-Michigan State,Big Ten,Mark Dantonio,"$4,390,417.00",85,75005,3,9,0.333333333,-1.21,-0.58,-1.79,74.72
-Minnesota,Big Ten,P.J. Fleck,"$3,550,000.00",85,52525,9,4,2.25,4,4.65,8.65,76.61
-Mississippi,SEC,Matt Luke,"$3,000,000.00",85,60580,,,,,,,
-Mississippi State,SEC,Joe Moorhead,"$2,600,000.00",85,61337,6,7,0.857142857,5.19,-3.51,1.68,80.98
-Missouri,SEC,Barry Odom,"$2,350,000.00",74,71168,4,8,0.5,0.19,-2.69,-2.5,81.02
-Navy,AAC,Ken Niumatalolo,"$2,163,000.00",71,34000,9,5,1.8,6.88,-3.29,3.59,83.6
-Nebraska,Big Ten,Scott Frost,"$5,000,000.00",71,87091,9,4,2.25,-0.9,8.45,7.55,73.76
-Nevada,Mt. West,Jay Norvell,"$500,000.00",71,30000,5,7,0.714285714,-6.49,-3.21,-9.7,65.95
-Nevada-Las Vegas,Mt. West,Tony Sanchez,"$600,000.00",71,65000,4,8,0.5,0.93,-10.98,-10.05,74.74
-New Mexico,Mt. West,Bob Davie,"$823,740.00",71,39224,9,4,2.25,5.26,-6.47,-1.21,77.47
-New Mexico State,Ind.,Doug Martin,"$419,640.00",71,30343,3,9,0.333333333,-4.52,-8.36,-12.88,68.52
-North Carolina,ACC,Larry Fedora,"$2,575,000.00",59,62980,8,5,1.6,6.18,2.07,8.25,82.25
-North Carolina State,ACC,Dave Doeren,"$3,000,000.00",66,57583,7,6,1.166666667,0.69,6.81,7.49,76.44
-Northern Illinois,MAC,Rod Carey,"$633,460.00",71,10000,5,7,0.714285714,-0.94,-3.45,-4.39,73.18
-Northwestern,Big Ten,Pat Fitzgerald,"$3,619,775.00",84,47130,7,6,1.166666667,0.48,4.98,5.46,75.16
-Notre Dame,Ind.,Brian Kelly,"$2,129,638.00",99,80795,4,8,0.5,5.46,-1.19,4.27,81.03
-Ohio,MAC,Frank Solich,"$580,331.00",99,24000,8,6,1.333333333,-3.34,1.35,-1.99,68.13
-Ohio State,Big Ten,Urban Meyer,"$7,600,000.00",99,104944,11,2,5.5,3.69,15.13,18.82,88.76
-Oklahoma,Big 12,Lincoln Riley,"$4,800,000.00",74,82112,11,2,5.5,14.64,0.34,14.98,92.54
-Oklahoma State,Big 12,Mike Gundy,"$5,000,000.00",74,60218,10,3,3.333333333,8.39,2.77,11.16,85.39
-Oregon,Pac-12,Mario Cristobal,"$2,500,000.00",70,54000,4,8,0.5,11.12,-10.42,0.7,84.15
-Oregon State,Pac-12,Jonathan Smith,"$1,900,008.00",70,45674,4,8,0.5,0.5,1.02,1.53,74.16
-Penn State,Big Ten,James Franklin,"$4,800,000.00",69,106572,11,3,3.666666667,11.63,4.09,15.72,87.46
-Pittsburgh,ACC,Pat Narduzzi,"$3,017,718.00",84,68400,,,,,,,
-Purdue,Big Ten,Jeff Brohm,"$3,800,000.00",96,56400,3,9,0.333333333,0.2,-9.16,-8.96,73.85
-Rutgers,Big Ten,Chris Ash,"$2,200,000.00",78,52454,2,10,0.2,-9.42,2.45,-6.97,66.15
-San Diego State,Mt. West,Rocky Long,"$873,576.00",94,70561,11,3,3.666666667,-0.89,6.86,5.97,76.05
-San Jose State,Mt. West,Brent Brennan,"$590,424.00",76,30456,4,8,0.5,-4.71,-5.31,-10.03,68.2
-South Alabama,Sun Belt,Steve Campbell,"$600,000.00",40,33500,6,7,0.857142857,-2.84,-2.96,-5.8,68.61
-South Carolina,SEC,Will Muschamp,"$4,200,000.00",40,80250,6,7,0.857142857,-5.88,4.97,-0.91,68.17
-South Florida,AAC,Charlie Strong,"$1,000,000.00",70,65890,11,2,5.5,14,-6.16,7.83,90.21
-Southern California,Pac-12,Clay Helton,"$2,625,965.00",63,93607,,,,,,,
+Buffalo,MAC,Lance Leipold,455500,89,29013,2,10,0.2,-11.82,-6.42,-18.24,60.55
+California,Pac-12,Justin Wilcox,1500000,81,62717,5,7,0.714285714,12.42,-10,2.42,85.02
+Central Florida,AAC,Josh Heupel,1700000,64,45301,,,,,,,
+Central Michigan,MAC,John Bonamego,655000,64,32885,6,7,0.857142857,-4.7,-0.9,-5.6,70.47
+Charlotte,C-USA,Brad Lambert,625000,56,15314,4,8,0.5,-6.5,-6.01,-12.51,67.25
+Cincinnati,AAC,Luke Fickell,2000000,56,40000,4,8,0.5,-9.46,0.29,-9.17,65.2
+Clemson,ACC,Dabo Swinney,6543350,56,81500,14,1,14,9.4,10.68,20.08,91.53
+Coastal Carolina,Sun Belt,Joe Moglia,400000,85,9214,,,,,,,
+Colorado,Pac-12,Mike MacIntyre,2878500,83,50183,10,4,2.5,2.32,9.86,12.18,79.41
+Colorado State,Mt. West,Mike Bobo,1800000,83,34400,7,6,1.166666667,5.18,-2.66,2.52,80.23
+Connecticut,AAC,Randy Edsall,1100000,98,40000,3,9,0.333333333,-13.01,-0.3,-13.3,60.84
+Duke,ACC,David Cutcliffe,2540928,82,33941,4,8,0.5,-3.03,1.67,-1.36,73.35
+East Carolina,AAC,Scottie Montgomery,1102500,80,50000,3,9,0.333333333,-2.71,-6.98,-9.69,74.88
+Eastern Michigan,MAC,Chris Creighton,460000,75,30200,7,6,1.166666667,-1.73,-2.57,-4.3,72.43
+Florida,SEC,Dan Mullen,6070000,92,88548,9,4,2.25,-2.62,13.6,10.98,74.4
+Florida Atlantic,C-USA,Lane Kiffin,1000000,49,30000,3,9,0.333333333,-4.18,-10.42,-14.6,69.14
+Florida State,ACC,Willie Taggart,5000000,68,82300,10,3,3.333333333,9.49,5.52,15.01,86.38
+Fresno State,Mt. West,Jeff Tedford,1550000,90,41031,1,11,0.090909091,-12.31,-1.94,-14.26,60.61
+Georgia,SEC,Kirby Smart,6603600,89,92746,8,5,1.6,0.35,3.29,3.64,74.16
+Georgia Southern,Sun Belt,Chad Lunsford,650000,82,24300,5,7,0.714285714,-3.04,-1.36,-4.4,71.25
+Georgia State,Sun Belt,Shawn Elliott,569000,63,28155,3,9,0.333333333,-8.2,-1.17,-9.37,64.06
+Georgia Tech,ACC,Paul Johnson,3060018,33,55000,9,4,2.25,3.28,3.85,7.13,78.04
+Hawaii,Mt. West,Nick Rolovich,486504,100,50000,7,7,1,-1.79,-4.65,-6.44,70.46
+Houston,AAC,Major Applewhite,1750000,0,40000,9,4,2.25,2.5,2.94,5.44,81.31
+Illinois,Big Ten,Lovie Smith,5000000,72,60670,3,9,0.333333333,-5.92,-1.83,-7.75,69.69
+Indiana,Big Ten,Tom Allen,1830000,74,52959,6,7,0.857142857,2.15,-0.77,1.38,74.18
+Iowa,Big Ten,Kirk Ferentz,4700000,84,70585,8,5,1.6,-0.51,7.31,6.81,74.25
+Iowa State,Big 12,Matt Campbell,3500000,84,61500,3,9,0.333333333,-3.46,-0.97,-4.43,74.74
+Kansas,Big 12,David Beaty,1701109,81,50071,2,10,0.2,-9.16,-1.49,-10.65,67.96
+Kansas State,Big 12,Bill Snyder,3500000,81,50000,9,4,2.25,1.7,6.39,8.09,78.76
+Kent State,MAC,Sean Lewis,440000,77,25000,3,9,0.333333333,-7.19,-1.93,-9.12,65.93
+Kentucky,SEC,Mark Stoops,4013600,77,62093,7,6,1.166666667,4.33,-2.03,2.3,78.92
+Liberty,Ind.,Turner Gill,947281,84,21088,,,,,,,
+Louisiana-Lafayette,Sun Belt,Billy Napier,850000,67,36900,,,,,,,
+Louisiana-Monroe,Sun Belt,Matt Viator,390000,67,30427,4,8,0.5,-4.42,-7.55,-11.97,68.45
+Louisville,ACC,Bobby Petrino,3980434,67,55000,9,4,2.25,8.81,3.06,11.87,92.04
+LSU,SEC,Ed Orgeron,3500000,67,102321,8,4,2,2.68,13.25,15.93,79.6
+Maryland,Big Ten,DJ Durkin,2512000,73,51802,6,7,0.857142857,-1.82,1.89,0.07,74
+Massachusetts,Ind.,Mark Whipple,500000,73,66829,2,10,0.2,-3.73,-8.21,-11.94,69.5
+Memphis,AAC,Mike Norvell,2600000,73,62380,8,5,1.6,3.28,-0.32,2.96,83.82
+Miami (Fla.),ACC,Mark Richt,4058061,73,65000,,,,,,,
+Miami (Ohio),MAC,Chuck Martin,524826,73,24286,,,,,,,
+Michigan,Big Ten,Jim Harbaugh,7504000,85,107601,10,3,3.333333333,4.71,12.85,17.56,90.05
+Michigan State,Big Ten,Mark Dantonio,4390417,85,75005,3,9,0.333333333,-1.21,-0.58,-1.79,74.72
+Minnesota,Big Ten,P.J. Fleck,3550000,85,52525,9,4,2.25,4,4.65,8.65,76.61
+Mississippi,SEC,Matt Luke,3000000,85,60580,,,,,,,
+Mississippi State,SEC,Joe Moorhead,2600000,85,61337,6,7,0.857142857,5.19,-3.51,1.68,80.98
+Missouri,SEC,Barry Odom,2350000,74,71168,4,8,0.5,0.19,-2.69,-2.5,81.02
+Navy,AAC,Ken Niumatalolo,2163000,71,34000,9,5,1.8,6.88,-3.29,3.59,83.6
+Nebraska,Big Ten,Scott Frost,5000000,71,87091,9,4,2.25,-0.9,8.45,7.55,73.76
+Nevada,Mt. West,Jay Norvell,500000,71,30000,5,7,0.714285714,-6.49,-3.21,-9.7,65.95
+Nevada-Las Vegas,Mt. West,Tony Sanchez,600000,71,65000,4,8,0.5,0.93,-10.98,-10.05,74.74
+New Mexico,Mt. West,Bob Davie,823740,71,39224,9,4,2.25,5.26,-6.47,-1.21,77.47
+New Mexico State,Ind.,Doug Martin,419640,71,30343,3,9,0.333333333,-4.52,-8.36,-12.88,68.52
+North Carolina,ACC,Larry Fedora,2575000,59,62980,8,5,1.6,6.18,2.07,8.25,82.25
+North Carolina State,ACC,Dave Doeren,3000000,66,57583,7,6,1.166666667,0.69,6.81,7.49,76.44
+Northern Illinois,MAC,Rod Carey,633460,71,10000,5,7,0.714285714,-0.94,-3.45,-4.39,73.18
+Northwestern,Big Ten,Pat Fitzgerald,3619775,84,47130,7,6,1.166666667,0.48,4.98,5.46,75.16
+Notre Dame,Ind.,Brian Kelly,2129638,99,80795,4,8,0.5,5.46,-1.19,4.27,81.03
+Ohio,MAC,Frank Solich,580331,99,24000,8,6,1.333333333,-3.34,1.35,-1.99,68.13
+Ohio State,Big Ten,Urban Meyer,7600000,99,104944,11,2,5.5,3.69,15.13,18.82,88.76
+Oklahoma,Big 12,Lincoln Riley,4800000,74,82112,11,2,5.5,14.64,0.34,14.98,92.54
+Oklahoma State,Big 12,Mike Gundy,5000000,74,60218,10,3,3.333333333,8.39,2.77,11.16,85.39
+Oregon,Pac-12,Mario Cristobal,2500000,70,54000,4,8,0.5,11.12,-10.42,0.7,84.15
+Oregon State,Pac-12,Jonathan Smith,1900008,70,45674,4,8,0.5,0.5,1.02,1.53,74.16
+Penn State,Big Ten,James Franklin,4800000,69,106572,11,3,3.666666667,11.63,4.09,15.72,87.46
+Pittsburgh,ACC,Pat Narduzzi,3017718,84,68400,,,,,,,
+Purdue,Big Ten,Jeff Brohm,3800000,96,56400,3,9,0.333333333,0.2,-9.16,-8.96,73.85
+Rutgers,Big Ten,Chris Ash,2200000,78,52454,2,10,0.2,-9.42,2.45,-6.97,66.15
+San Diego State,Mt. West,Rocky Long,873576,94,70561,11,3,3.666666667,-0.89,6.86,5.97,76.05
+San Jose State,Mt. West,Brent Brennan,590424,76,30456,4,8,0.5,-4.71,-5.31,-10.03,68.2
+South Alabama,Sun Belt,Steve Campbell,600000,40,33500,6,7,0.857142857,-2.84,-2.96,-5.8,68.61
+South Carolina,SEC,Will Muschamp,4200000,40,80250,6,7,0.857142857,-5.88,4.97,-0.91,68.17
+South Florida,AAC,Charlie Strong,1000000,70,65890,11,2,5.5,14,-6.16,7.83,90.21
+Southern California,Pac-12,Clay Helton,2625965,63,93607,,,,,,,
 Southern Methodist,AAC,Sonny Dykes,,75,32000,,,,,,,
-Stanford,Pac-12,David Shaw,"$4,311,543.00",67,50000,10,3,3.333333333,0.01,12.54,12.54,73.09
-Syracuse,ACC,Dino Babers,"$2,401,206.00",80,49250,4,8,0.5,0.08,-4.59,-4.51,75.51
+Stanford,Pac-12,David Shaw,4311543,67,50000,10,3,3.333333333,0.01,12.54,12.54,73.09
+Syracuse,ACC,Dino Babers,2401206,80,49250,4,8,0.5,0.08,-4.59,-4.51,75.51
 Temple,AAC,Geoff Collins,,82,68532,10,4,2.5,2,6.96,8.97,78.15
 Tennessee,SEC,Jeremy Pruitt,,83,102455,9,4,2.25,11.58,-0.99,10.59,88.42
-Texas,Big 12,Tom Herman,"$5,500,000.00",77,100119,5,7,0.714285714,3.16,-1.41,1.75,77.22
-Texas A&M,SEC,Jimbo Fisher,"$7,500,000.00",77,102733,8,5,1.6,5.4,3.37,8.77,84.98
-Texas Christian,Big 12,Gary Patterson,"$4,840,717.00",68,50000,6,7,0.857142857,1.88,0.74,2.63,77.84
-Texas State,Sun Belt,Everett Withers,"$700,000.00",53,30000,2,10,0.2,-9.6,-9.26,-18.86,63
-Texas Tech,Big 12,Kliff Kingsbury,"$3,703,975.00",70,60862,5,7,0.714285714,12.46,-11.12,1.34,90.62
-Toledo,MAC,Jason Candle,"$1,125,000.00",71,26248,9,4,2.25,7.2,-2.26,4.94,82.66
-Troy,Sun Belt,Neal Brown,"$810,000.00",67,30000,10,3,3.333333333,1.63,2.48,4.1,77.3
-Tulane,AAC,Willie Fritz,"$1,629,000.00",68,30000,4,8,0.5,-5.62,-0.92,-6.54,70.55
-Tulsa,AAC,Philip Montgomery,"$1,518,177.00",84,35542,10,3,3.333333333,11.07,-4.16,6.91,88.48
-UCLA,Pac-12,Chip Kelly,"$3,300,000.00",79,92542,4,8,0.5,-0.86,3.49,2.63,71.93
-Utah,Pac-12,Kyle Whittingham,"$3,787,917.00",78,45017,9,4,2.25,3.31,5.35,8.65,75.34
-Utah State,Mt. West,Matt Wells,"$900,000.00",78,25513,3,9,0.333333333,-4.63,-1.35,-5.99,69.88
-Vanderbilt,SEC,Derek Mason,"$2,812,523.00",68,40350,6,7,0.857142857,-2.05,5.26,3.21,72.09
-Virginia,ACC,Bronco Mendenhall,"$3,550,000.00",85,61500,2,10,0.2,-4.34,-3.91,-8.25,70.74
-Virginia Tech,ACC,Justin Fuente,"$4,000,000.00",86,66233,10,4,2.5,4.26,6.74,11,82.68
-Wake Forest,ACC,Dave Clawson,"$1,831,580.00",78,31500,7,6,1.166666667,-4.32,5.04,0.73,69.97
-Washington,Pac-12,Chris Petersen,"$4,377,500.00",93,70500,12,2,6,7.59,12.39,19.98,88.28
-Washington State,Pac-12,Mike Leach,"$3,500,000.00",93,32248,8,5,1.6,5.7,3.33,9.03,84.22
-West Virginia,Big 12,Dana Holgorsen,"$3,617,500.00",66,60000,10,3,3.333333333,4.01,5.56,9.57,78.75
-Western Michigan,MAC,Tim Lester,"$800,000.00",74,30200,13,1,13,7.61,4.42,12.03,86.24
-Wisconsin,Big Ten,Paul Chryst,"$3,750,000.00",71,80321,11,3,3.666666667,2.13,13.17,15.3,78.74
-Wyoming,Mt. West,Craig Bohl,"$1,412,000.00",97,29181,8,6,1.333333333,9.04,-7.68,1.37,81.23
+Texas,Big 12,Tom Herman,5500000,77,100119,5,7,0.714285714,3.16,-1.41,1.75,77.22
+Texas A&M,SEC,Jimbo Fisher,7500000,77,102733,8,5,1.6,5.4,3.37,8.77,84.98
+Texas Christian,Big 12,Gary Patterson,4840717,68,50000,6,7,0.857142857,1.88,0.74,2.63,77.84
+Texas State,Sun Belt,Everett Withers,700000,53,30000,2,10,0.2,-9.6,-9.26,-18.86,63
+Texas Tech,Big 12,Kliff Kingsbury,3703975,70,60862,5,7,0.714285714,12.46,-11.12,1.34,90.62
+Toledo,MAC,Jason Candle,1125000,71,26248,9,4,2.25,7.2,-2.26,4.94,82.66
+Troy,Sun Belt,Neal Brown,810000,67,30000,10,3,3.333333333,1.63,2.48,4.1,77.3
+Tulane,AAC,Willie Fritz,1629000,68,30000,4,8,0.5,-5.62,-0.92,-6.54,70.55
+Tulsa,AAC,Philip Montgomery,1518177,84,35542,10,3,3.333333333,11.07,-4.16,6.91,88.48
+UCLA,Pac-12,Chip Kelly,3300000,79,92542,4,8,0.5,-0.86,3.49,2.63,71.93
+Utah,Pac-12,Kyle Whittingham,3787917,78,45017,9,4,2.25,3.31,5.35,8.65,75.34
+Utah State,Mt. West,Matt Wells,900000,78,25513,3,9,0.333333333,-4.63,-1.35,-5.99,69.88
+Vanderbilt,SEC,Derek Mason,2812523,68,40350,6,7,0.857142857,-2.05,5.26,3.21,72.09
+Virginia,ACC,Bronco Mendenhall,3550000,85,61500,2,10,0.2,-4.34,-3.91,-8.25,70.74
+Virginia Tech,ACC,Justin Fuente,4000000,86,66233,10,4,2.5,4.26,6.74,11,82.68
+Wake Forest,ACC,Dave Clawson,1831580,78,31500,7,6,1.166666667,-4.32,5.04,0.73,69.97
+Washington,Pac-12,Chris Petersen,4377500,93,70500,12,2,6,7.59,12.39,19.98,88.28
+Washington State,Pac-12,Mike Leach,3500000,93,32248,8,5,1.6,5.7,3.33,9.03,84.22
+West Virginia,Big 12,Dana Holgorsen,3617500,66,60000,10,3,3.333333333,4.01,5.56,9.57,78.75
+Western Michigan,MAC,Tim Lester,800000,74,30200,13,1,13,7.61,4.42,12.03,86.24
+Wisconsin,Big Ten,Paul Chryst,3750000,71,80321,11,3,3.666666667,2.13,13.17,15.3,78.74
+Wyoming,Mt. West,Craig Bohl,1412000,97,29181,8,6,1.333333333,9.04,-7.68,1.37,81.23
