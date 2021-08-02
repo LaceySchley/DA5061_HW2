@@ -1,4 +1,4 @@
-School,Conf,Coach, TotalPay , Graduation Rate (GSR) , StadSize ,W,L, Ratio ,OffenceScore,Defense Score,Score,PointsPerGame
+School,Conf,Coach,TotalPay,Graduation Rate (GSR),StadSize,W,L,Ratio,OffenceScore,Defense Score,Score,PointsPerGame
 Air Force,Mt. West,Troy Calhoun,885000,83,46692,10,3,3.333333333,4.96,-0.87,4.09,78.16
 Akron,MAC,Terry Bowden,412500,45,30000,5,7,0.714285714,-0.4,-6.12,-6.52,72.64
 Alabama,SEC,Nick Saban,8307000,79,101821,14,1,14,8.01,17.62,25.62,90.38
